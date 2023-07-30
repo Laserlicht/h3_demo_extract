@@ -7,6 +7,8 @@ The Win version has some missing Creature sprites and other resources not contai
 
 Audio/Video extraction currently not supported.
 
+Output as well as all working files will be in the temp folder ("_hr_res").
+
 ## Functionality
 Runs currently only on Linux.
 
